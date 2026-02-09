@@ -18,7 +18,7 @@ MySQL Command Line Client or MySQL Workbench
 auth_logs table
 Stores authentication events including username, IP address, and login result (FAILED_LOGIN or SUCCESS_LOGIN)
 
-## alerts table
+## Alerts table
 Stores detected security alerts including suspicious IP address, alert type, and timestamp
 
 ## Detection Logic

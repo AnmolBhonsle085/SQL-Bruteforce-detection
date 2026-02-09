@@ -1,4 +1,4 @@
-## SQL Brute Force Login Detection
+## Brute Force Login Detection using SQL
 
 ## Project Overview
 This project demonstrates how SQL can be used in cybersecurity to analyze authentication logs and detect brute-force login attempts. Authentication events are stored in a database and analyzed to identify IP addresses with repeated failed login attempts. When a defined threshold is exceeded, a security alert is generated. The project simulates a real-world SOC (Security Operations Center) log analysis and alerting workflow.
